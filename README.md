@@ -3,9 +3,9 @@
 A simple and fun **Flutter** application that generates random names.  
 Perfect for practice, UI testing, or just for fun.  
 
-<img src="image/3" alt="3">
-<img src="image/2" alt="2">
-<img src="image/1" alt="1">
+<img src="3.png" alt="3">
+<img src="2.png" alt="2">
+<img src="1.png" alt="1">
 
 ---
 
